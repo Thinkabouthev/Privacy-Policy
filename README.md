@@ -1,5 +1,3 @@
-# Privacy-Policy
-Privacy-Policy for Loomi
 # Privacy Policy for "Habit Tracker"
 
 **Last Updated:** July 9, 2025
